@@ -1,0 +1,9 @@
+{
+  "name": "st7789",
+  "description": "ST7789 driver for color IPS/TFT LCD display.",
+  "main": "index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "simple-fonts": "git+https://github.com/niklauslee/simple-fonts.git"
+  }
+}
